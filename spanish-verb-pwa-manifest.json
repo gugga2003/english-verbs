@@ -2,7 +2,7 @@
     "name": "Spanish Verb Conjugation",
     "short_name": "SpanishVerbs",
     "description": "Learn Spanish verb conjugations",
-    "start_url": "/",
+    "start_url": "/english-verbs/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#3367D6",
